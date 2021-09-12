@@ -4,7 +4,6 @@
 <!--
 **aamabile001/aamabile001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-My name is Anthony and I'm at the beginning of my programming journey.
 
 About me:
 
@@ -24,3 +23,5 @@ Learning is a lifelong journey. Change is constant.
 - Python Core
 
 I'm a broker for crypto trading bot [Einstein AI](https://www.einsteinai.io). It's a great way to get exposure to the crypto markets with minimal risk and effort. Ping me if you're interested in learning more.
+
+My name is Anthony and I'm just getting started.
