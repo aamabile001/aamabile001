@@ -24,4 +24,4 @@ Learning is a lifelong journey. Change is constant.
 
 I'm a broker for crypto trading bot [Einstein AI](https://www.einsteinai.io). It's a great way to get exposure to the crypto markets with minimal risk and effort. Ping me if you're interested in learning more.
 
-My name is Anthony and I'm just getting started.
+My name is [Anthony](https://www.sololearn.com/profile/4268453) and I'm just getting started.
