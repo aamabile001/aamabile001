@@ -8,7 +8,7 @@
 About me:
 
 - 🔭 I’m currently tweaking my stock trading bot (crypto bot coming soon) as well as automating processes at my corporate finance day job.
-- 🌱 I’m continuing learning Python, AI and ML.
+- 🌱 I’m continuing to learn Python, AI and ML.
 - 👯 I’m looking to collaborate on crypto and social media.
 - 📫 How to reach me: [twitter](twitter.com/aamabile001) or [email](mailto:aamabile001@gmail.com).
 
