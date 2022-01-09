@@ -9,7 +9,7 @@ About me:
 
 - 🔭 I’m currently tweaking my stock trading bot (crypto bot coming soon) as well as automating processes at my corporate finance day job.
 - 🌱 I’m continuing to learn Python, AI and ML.
-- 👯 I’m looking to partner with NFT or crypto projects at [NFT website](http://zombieape.com).
+- 👯 I’m looking to partner with NFT or crypto projects on my [NFT website](http://zombieape.com).
 - 📫 How to reach me: [twitter](http://twitter.com/hollaattonytone) or [email](mailto:aamabile001@gmail.com).
 
 
