@@ -18,3 +18,4 @@ About me:
 - MIT Blockchain
 - Intermediate Python
 - Python Core
+- [UT Artificial Intelligence and Machine Learning](https://olympus1.mygreatlearning.com/gradesheet/TLCVTUIR)
