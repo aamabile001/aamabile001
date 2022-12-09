@@ -19,4 +19,5 @@ About me:
 - MIT Blockchain
 - Intermediate Python
 - Python Core
+- Python for Finance
 
