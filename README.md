@@ -20,4 +20,5 @@ About me:
 - Intermediate Python
 - Python Core
 - Python for Finance
+- Python for Data Science
 
