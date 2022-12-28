@@ -15,7 +15,7 @@ About me:
 
 
 [Current certs](http://amabilemedia.com/my-certifications/):
-- [UT Artificial Intelligence and Machine Learning](https://olympus1.mygreatlearning.com/gradesheet/TLCVTUIR)
+- UT Artificial Intelligence and Machine Learning
 - MIT Blockchain
 - Intermediate Python
 - Python Core
