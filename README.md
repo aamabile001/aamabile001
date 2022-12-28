@@ -21,4 +21,5 @@ About me:
 - Python Core
 - Python for Finance
 - Python for Data Science
+- Python Data Structures
 
