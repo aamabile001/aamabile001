@@ -22,4 +22,7 @@ About me:
 - Python for Finance
 - Python for Data Science
 - Python Data Structures
+- Machine Learning
 
+For discounts on programs I've been through use my referral links:
+- [UT Artificial Intelligence and Machine Learning](https://olympus1.mygreatlearning.com/rl/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SndjbTluY21GdFgybGtJam8yTnprc0lteHRjMTkxYzJWeVgybGtJam9pTWpReE5qTXpOaUo5LlVLdjVQaEJCTmJPVlJ4bXhSREljc1RnalZXYTNNNHp2eE9pakNRcmFxT00=)
