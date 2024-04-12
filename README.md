@@ -10,7 +10,7 @@ About me:
 - 🌱 I’m continuing to learn Python and including AI and ML techniques.
 - 👯 Let me do some work for you on [Fiverr](https://www.fiverr.com/s/p6jQkl) or [Upwork](https://www.upwork.com/freelancers/~01f356a3d542001bfa?viewMode=1).
 - 👯 I’m looking to partner with NFT or crypto projects on my [NFT website](http://zombieape.com).
-- 📫 How to reach me: [twitter](http://twitter.com/hollaattonytone) or [email](mailto:aamabile001@gmail.com).
+- 📫 How to reach me: [email](mailto:aamabile001@gmail.com).
 - ⛅ How's the [weather](https://github.com/aamabile001/weatherapp/blob/main/AAWeatherApp.exe) in your neck of the woods?
 - 🍔 In need of a good [dad joke](https://github.com/aamabile001/DadJokeApp/blob/main/DadJokeApp.exe)?
 
