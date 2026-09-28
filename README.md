@@ -13,17 +13,6 @@ About me:
 - ⛅ How's the [weather](https://github.com/aamabile001/weatherapp.git) in your neck of the woods?
 - 🍔 In need of a good [dad joke](https://github.com/aamabile001/DadJokeApp.git)?
 
-
-[Current certs](http://amabilemedia.com/my-certifications/):
-- UT Artificial Intelligence and Machine Learning
-- MIT Blockchain: Disruptive Innovation
-- Sololearn Intermediate Python
-- Sololearn Python Core
-- Sololearn Python for Finance
-- Sololearn Python for Data Science
-- Sololearn Python Data Structures
-- Sololearn Machine Learning
-
 For discounts on programs I've been through use my referral links:
 - [UT Artificial Intelligence and Machine Learning](https://olympus1.mygreatlearning.com/rl/ZXlKMGVYQWlPaUpLVjFRaUxDSmhiR2NpT2lKSVV6STFOaUo5LmV5SndjbTluY21GdFgybGtJam8yTnprc0lteHRjMTkxYzJWeVgybGtJam9pTWpReE5qTXpOaUo5LlVLdjVQaEJCTmJPVlJ4bXhSREljc1RnalZXYTNNNHp2eE9pakNRcmFxT00=)
 - [Data Engineer Academy](https://my.dataengineeracademy.com/login/signup.php?ref=gEQ9UsyiIULAcx6j)
